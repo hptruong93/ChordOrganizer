@@ -1,0 +1,13 @@
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\ChordOrganizer.exe.config
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\ChordOrganizer.exe
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\ChordOrganizer.pdb
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\Parse.dll
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\Parse.NetFx45.dll
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\Parse.xml
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\bin\Release\Parse.NetFx45.xml
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.csprojResolveAssemblyReference.cache
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.MainForm.resources
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.Properties.Resources.resources
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.csproj.GenerateResource.Cache
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.exe
+D:\Study\IT\NET FrameWork\Project\ChordOrganizer\ChordOrganizer\obj\Release\ChordOrganizer.pdb
